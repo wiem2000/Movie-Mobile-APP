@@ -21,6 +21,16 @@ Movie Mobile est une application mobile Android développée en Kotlin et utilis
    - La classe `Connectivity Manager` est employée pour détecter l'absence de connexion Internet.
    - Des messages d'erreur clairs et informatifs sont affichés à l'utilisateur en cas de défaillance de la connexion.
 
+## Configuration
+
+1. **Clonage du Dépôt :**
+   ```bash
+   git clone https://github.com/wiem2000/Movie-Mobile-APP
+
+2. **Ajout de la Clé API TMDb :**
+
+Obtenez une clé API TMDb sur https://www.themoviedb.org/documentation/api.
+
 ## Démo
 
 https://github.com/wiem2000/Movie-Mobile-APP/assets/96753615/1b041cc4-b2d3-4d23-a09d-4575c7a21434
